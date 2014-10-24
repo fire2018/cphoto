@@ -11,9 +11,11 @@ the quick key:
 v: smaller
 b: biger
 n: next
+m: previous
 l: left
 r: right
 u: up
 d: down
 g: grey
 c: color
+
